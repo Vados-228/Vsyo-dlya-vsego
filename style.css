@@ -1,0 +1,121 @@
+body{
+    background-color: lightgoldenrodyellow;
+    font-family: monospace;
+    text-align: center;
+}
+
+header{
+    background-color: mediumseagreen;
+    box-shadow: 0 10px 10px darkgreen;
+    padding: 20px;
+    font-size: 30px;
+    border: 5px solid darkolivegreen;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+
+main{
+    padding: 20px;
+    font-size: 30px;
+}
+
+footer{
+    background-color: mediumseagreen;
+    box-shadow: 0 10px 10px darkgreen;
+    padding: 20px;
+    font-size: 30px;
+    border: 5px solid darkolivegreen;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+
+.aside img {
+    background-color: mediumseagreen;
+    border: 5px solid darkolivegreen;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+    width: 50px;
+}
+
+h1 {
+    font-size: 125px;
+}
+
+.logo {
+    background-color: mediumseagreen;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+    width: 100px;
+}
+
+.left {
+    background-color: mediumseagreen;
+    box-shadow: 0 10px 10px darkgreen;
+    padding: 20px;
+    border: 5px solid darkolivegreen;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+
+.right {
+    background-color: mediumseagreen;
+    box-shadow: 0 10px 10px darkgreen;
+    padding: 20px;
+    border: 5px solid darkolivegreen;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+
+main p {
+    background-color: mediumseagreen;
+    box-shadow: 0 10px 10px darkgreen;
+    padding: 20px;
+    border: 5px solid darkolivegreen;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+
+a {
+    text-decoration: none;
+    border-left: 5px dotted darkolivegreen;
+    border-right: 5px dotted darkolivegreen;
+}
+
+div {
+    background-color: mediumseagreen;
+    box-shadow: 0 10px 10px darkgreen;
+    padding: 20px;
+    border: 5px solid darkolivegreen;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    width: 250px;
+    height: 750px;
+    margin: 25px;
+    transition: all 0.25s ease-out;
+}
+
+div img {
+    width: 175px;
+    height: 175px;
+    justify-content: space-between;
+    box-shadow: 0 10px 10px darkgreen;
+    padding: 20px;
+    border: 5px solid darkolivegreen;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    margin: 10px;
+}
+
+.post {
+    float: left;
+    justify-content: center;
+}
+
+div:hover {
+    transform: scale(1.1);
+    transition: all 0.25s ease-out;
+}
+
+.italianbrainrot div {
+    height: 410px;
+}
